@@ -1,0 +1,8 @@
+p .hidden {
+  display: none;
+  height: 2000px;
+}
+
+.card-content {
+  height: 200px;
+}
